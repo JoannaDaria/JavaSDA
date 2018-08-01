@@ -1,4 +1,6 @@
-zmieniłam pierwszy wers w GitHub
+﻿zmieniłam pierwszy wers w GitHub
 jeden
 ostatni wers dodany na koniec
 ostatni wers z basha
+ostatni wers z GitHuba
+
